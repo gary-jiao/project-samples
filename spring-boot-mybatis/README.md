@@ -5,6 +5,9 @@
 
 dao采用mybatis 3.3.0 + tk.mybatis通用Mapper3.1.3 , 支持事务回滚
 
+####Mybatis生成器
+包含Mybatis的自动生成器，可以从数据库直接生成mapper.xml文件
+
 ####web容器
 
 内嵌tomcat容器,默认开启gzip压缩
