@@ -6,6 +6,7 @@
 
 ### Spring Data Examples
 Spring的官方样例，演示如何使用Spring Data的相关功能，很全面。
+
 https://github.com/spring-projects/spring-data-examples
 
 其实在https://github.com/spring-projects下面有很多样板项目，都可以做为参考。
